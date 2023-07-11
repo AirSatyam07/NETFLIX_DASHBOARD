@@ -26,7 +26,7 @@ To view and interact with the Tableau workbook, follow these steps:
 1. Clone the repository to your local machine or download the ZIP file.
 
    ```
-   git clone https://github.com/your-username/netflix-analysis.git
+   git clone https://github.com/AirSatyam07/NETFLIX_DASHBOARD.git
    ```
 
 2. Install Tableau Desktop or use Tableau Public, which is free to use.
