@@ -11,11 +11,13 @@ The Netflix Data Analysis project aims to analyze and visualize various aspects 
 
 The repository contains the following files:
 
-- `data/netflix_data.csv`: The dataset used for the analysis. It includes information about the title, director, cast, country, date added, release year, rating, duration, and genres of the Netflix shows and movies.
+- `Data/netflix_titles.csv`: The dataset used for the analysis. It includes information about the title, director, cast, country, date added, release year, rating, duration, and genres of the Netflix shows and movies.
 
-- `images/`: A folder containing screenshots of Tableau dashboards and visualizations created during the analysis.
+- `Images/`: A folder containing screenshots of Tableau dashboards and visualizations created during the analysis.
 
-- `Netflix_Analysis.twbx`: The Tableau workbook file that includes the visualizations and dashboards showcasing the insights gained from the Netflix dataset.
+- `Ppt/`: A folder containing ppt of all my workbook
+
+- `MY_FIRST_DASHBOARD.twbx`,`MY_FIRST_DASHBOARD_v2022.4.twbx`: The Tableau workbook file that includes the visualizations and dashboards showcasing the insights gained from the Netflix dataset.
 
 ## Installation
 
